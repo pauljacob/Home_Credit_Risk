@@ -39,3 +39,8 @@ data/processed/train/.DS_Store
 data/raw/.DS_Store
 data/raw/csv_files/.DS_Store
 notebooks/.DS_Store
+notebooks/example/home-credit-2024-starter-notebook.ipynb
+notebooks/example/home-credit-baseline.ipynb
+notebooks/example/home-credit-risk-lightgbm.ipynb
+notebooks/example/home-credit-risk-mode-utility-scripts.ipynb
+notebooks/example/homecredit-starter-inference-v1.ipynb
