@@ -44,3 +44,9 @@ notebooks/example/home-credit-baseline.ipynb
 notebooks/example/home-credit-risk-lightgbm.ipynb
 notebooks/example/home-credit-risk-mode-utility-scripts.ipynb
 notebooks/example/homecredit-starter-inference-v1.ipynb
+notebooks/examples/credit-risk-eda-xgboost-depth-0-gpu.ipynb
+notebooks/examples/home-credit-2024-starter-notebook.ipynb
+notebooks/examples/home-credit-baseline.ipynb
+notebooks/examples/home-credit-risk-lightgbm.ipynb
+notebooks/examples/home-credit-risk-mode-utility-scripts.ipynb
+notebooks/examples/homecredit-starter-inference-v1.ipynb
